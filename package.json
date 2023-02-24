@@ -10,7 +10,7 @@
     "express-rescue": "^1.1.31",
     "jsonwebtoken": "^8.5.1",
     "mysql2": "2.1.0",
-    "sequelize": "6.3.4",
+    "sequelize": "6.29.0",
     "shelljs": "0.8.4"
   },
   "scripts": {
